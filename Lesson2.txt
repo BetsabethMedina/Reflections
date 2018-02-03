@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creates a branch / head with no commits on it
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Contains the files that potentially culd be committed and send to the repository, it allows to start tracking them.
